@@ -1,7 +1,7 @@
 ## Settings
 title: CTF-Writeups
 owner: "Ryan Sheehan"
-url: "http://ryanwsheehan.com/"
+url: "http://ryanwsheehan.com"
 baseurl: "/ctf-writeups"
 permalink: /:title/
 description: ""
