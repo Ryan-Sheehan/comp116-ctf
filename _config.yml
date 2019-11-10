@@ -2,7 +2,7 @@
 title: CTF-Writeups
 owner: "Ryan Sheehan"
 url: "http://ryanwsheehan.com"
-baseurl: "/ctf-writeups"
+baseurl: "/comp116-ctf"
 permalink: /:title/
 description: ""
 markdown: kramdown
